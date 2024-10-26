@@ -11,10 +11,7 @@ I am practicing the following areas of JavaScript:
 - **Intermediate Concepts**: Arrays, objects, DOM manipulation, event handling, etc.
 - **Advanced Concepts**: Promises, async/await, closures, ES6+ features, and more.
 
-## Structure
 
-- Each folder or file corresponds to a specific topic or challenge.
-- Solutions include both problem descriptions and the approach I used to solve them.
 
 ## Goals
 

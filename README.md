@@ -16,8 +16,8 @@ I am practicing the following areas of JavaScript:
 ## Goals
 
 - Strengthen my understanding of JavaScript fundamentals.
-- Gain hands-on experience with advanced features.
-- Prepare for coding interviews and real-world problem solving.
+- Gain hands-on experience with fundamental and advanced features.
+- Prepare for coding interviews and real-world problem-solving.
 
 Feel free to browse the repository and see my progress!
 
